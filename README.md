@@ -13,6 +13,7 @@
 [![Rest][Rest]][Rest-url]
 [![BitBucket][BitBucket]][BitBucket-url]
 [![JIRA][JIRA]][JIRA-url]
+[![API][API]][API-url]
 
 ## Socials
 
