@@ -28,6 +28,8 @@
 [email-url]: mailto:ritikbohra2@gmail.com
 [linkedin-shield]: https://img.shields.io/badge/LinkedIn-4F4A45.svg?style=for-the-badge&logo=linkedin
 [linkedin-url]: https://www.linkedin.com/in/ritik-bohra/
+[Medium-shield]: https://img.shields.io/badge/Medium-4F4A45.svg?style=for-the-badge&logo=linkedin
+[Medium-url]: [https://www.linkedin.com/in/ritik-bohra/](https://medium.com/@ritikbohra2)
 [leetcode-shield]: https://img.shields.io/badge/LeetCode-4F4A45.svg?style=for-the-badge&logo=leetcode
 [leetcode-url]: https://leetcode.com/Ritik_bohra/
 [HTML5]: https://img.shields.io/badge/HTML5-20232A?style=for-the-badge&logo=html5
@@ -52,5 +54,3 @@
 [JIRA-url]: https://www.atlassian.com/software/jira
 [API]: https://img.shields.io/badge/API-20232A?style=for-the-badge&logo=api
 [API-url]: https://en.wikipedia.org/wiki/Application_programming_interface
-[Medium]: https://img.shields.io/badge/Medium-20232A?style=for-the-badge&logo=medium
-[Medium-url]: [https://en.wikipedia.org/wiki/Application_programming_interface](https://medium.com/@ritikbohra2)https://medium.com/@ritikbohra2
