@@ -7,8 +7,6 @@
 [![CPP][CPP]][CPP-url]
 [![HTML5][HTML5]][HTML5-url]
 [![CSS3][CSS3]][CSS3-url]
-[![JS][JS]][JS-url]
-[![React][React.js]][React-url]
 [![MySQL][MySQL]][MySQL-url]
 [![PostMan][Postman]][Postman-url]
 [![Springboot][Springboot]][Springboot-url]
@@ -24,13 +22,11 @@
 
 
 [email-shield]: https://img.shields.io/badge/Email-4F4A45.svg?style=for-the-badge&logo=gmail
-[email-url]: mailto:ruchiranka2103@gmail.com
+[email-url]: mailto:ritikbohra2@gmail.com
 [linkedin-shield]: https://img.shields.io/badge/LinkedIn-4F4A45.svg?style=for-the-badge&logo=linkedin
-[linkedin-url]: https://linkedin.com/in/othneildrew
+[linkedin-url]: https://www.linkedin.com/in/ritik-bohra/
 [leetcode-shield]: https://img.shields.io/badge/LeetCode-4F4A45.svg?style=for-the-badge&logo=leetcode
-[leetcode-url]: https://leetcode.com/ruch21/
-[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-[React-url]: https://reactjs.org/
+[leetcode-url]: https://leetcode.com/Ritik_bohra/
 [HTML5]: https://img.shields.io/badge/HTML5-20232A?style=for-the-badge&logo=html5
 [HTML5-url]: https://developer.mozilla.org/en-US/docs/Web/HTML
 [CSS3]: https://img.shields.io/badge/CSS3-20232A?style=for-the-badge&logo=css3
@@ -41,8 +37,6 @@
 [CPP-url]: https://isocpp.org/
 [MySQL]: https://img.shields.io/badge/MySQL-20232A?style=for-the-badge&logo=mysql
 [MySQL-url]: https://dev.mysql.com/doc/
-[JS]: https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript
-[JS-url]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
 [Postman]: https://img.shields.io/badge/Postman-20232A?style=for-the-badge&logo=postman
 [Postman-url]: https://www.postman.com/
 [Springboot]: https://img.shields.io/badge/Springboot-20232A?style=for-the-badge&logo=spring
