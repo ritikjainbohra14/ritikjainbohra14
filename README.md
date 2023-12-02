@@ -14,13 +14,14 @@
 [![BitBucket][BitBucket]][BitBucket-url]
 [![JIRA][JIRA]][JIRA-url]
 [![API][API]][API-url]
-[![Medium][Medium]][Medium-url]
+
 
 ## Socials
 
 [![Email][email-shield]][email-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![LeetCode][leetcode-shield]][leetcode-url]
+[![Medium][Medium]][Medium-url]
 
 
 [email-shield]: https://img.shields.io/badge/Email-4F4A45.svg?style=for-the-badge&logo=gmail
