@@ -48,3 +48,5 @@
 [BitBucket-url]: https://bitbucket.org/
 [JIRA]: https://img.shields.io/badge/JIRA-20232A?style=for-the-badge&logo=jira
 [JIRA-url]: https://www.atlassian.com/software/jira
+[API]: https://img.shields.io/badge/API-20232A?style=for-the-badge&logo=api
+[API-url]: https://en.wikipedia.org/wiki/Application_programming_interface
