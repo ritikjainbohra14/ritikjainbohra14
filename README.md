@@ -2,7 +2,7 @@
 ### [Summary description]
 
 ## GitHub Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=ritikjainbohra14&theme=react)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ritikjainbohra14&theme=react)](https://streak-stats.demolab.com?user=ritikjainbohra14&theme=react)
 
 ## Skills
 
