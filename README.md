@@ -1,6 +1,9 @@
 # Hi there 👋, I am Ritik Bohra!
 ### [Summary description]
 
+##GitHub States
+[![GitHub Streak](https://streak-stats.demolab.com?user=ritikjainbohra&theme=dark)](https://git.io/streak-stats)
+
 ## Skills
 
 [![Java][Java]][Java-url]
