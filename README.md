@@ -14,6 +14,7 @@
 [![BitBucket][BitBucket]][BitBucket-url]
 [![JIRA][JIRA]][JIRA-url]
 [![API][API]][API-url]
+[![Medium][Medium]][Medium-url]
 
 ## Socials
 
@@ -50,3 +51,5 @@
 [JIRA-url]: https://www.atlassian.com/software/jira
 [API]: https://img.shields.io/badge/API-20232A?style=for-the-badge&logo=api
 [API-url]: https://en.wikipedia.org/wiki/Application_programming_interface
+[Medium]: https://img.shields.io/badge/Medium-20232A?style=for-the-badge&logo=medium
+[Medium-url]: [https://en.wikipedia.org/wiki/Application_programming_interface](https://medium.com/@ritikbohra2)https://medium.com/@ritikbohra2
